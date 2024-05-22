@@ -1,8 +1,7 @@
-# React + Vite
+# Keeper App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Keeper App is a React-based project that allows users to manage their tasks. Users can add new tasks to their list and delete them once completed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Disclaimer**: This version of the Keeper App does not include a database. All tasks are stored locally and will not persist if the page is refreshed.
